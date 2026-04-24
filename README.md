@@ -27,7 +27,7 @@ App web para entrenar modelos de ML y explicar sus predicciones con SHAP. Subís
 ### 🌎 [LATAM Macro Dashboard](https://github.com/DatabyFede/economic-viz-latam)
 Dashboard interactivo con datos macroeconómicos reales de 7 países de LATAM, consumidos en tiempo real desde la API del Banco Mundial. GDP, inflación, desempleo y más.
 
-**[→ Demo en vivo](https://economic-viz-latam-hznaudfouciqzgrsypbvln.streamlit.app/)**
+**[→ Demo en vivo](https://economic-viz-latam-eubizz88pctu7nrsu3o9jc.streamlit.app/)**
 
 `Python` `Streamlit` `Plotly` `REST API` `World Bank`
 
