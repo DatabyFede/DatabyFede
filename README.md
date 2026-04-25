@@ -16,7 +16,7 @@ Análisis de e-commerce con DuckDB: cohortes, RFM, funnel de conversión y un si
 ---
 
 ### 🤖 [ML Explainer](https://github.com/DatabyFede/streamlit-ml-explainer)
-App web para entrenar modelos de ML y explicar sus predicciones con SHAP. Subís un CSV, elegís tu variable objetivo y compará Random Forest, Gradient Boosting y Logistic Regression en un click.
+App web para entrenar modelos de ML y explicar sus predicciones con SHAP. Subís un CSV, elegís tu variable objetivo y comparás Random Forest, Gradient Boosting y Logistic Regression en un click.
 
 **[→ Demo en vivo](https://app-ml-explainer-prphqw3mhezpqtfmax88sy.streamlit.app/)**
 
@@ -33,13 +33,32 @@ Dashboard interactivo con datos macroeconómicos reales de 7 países de LATAM, c
 
 ---
 
+### 🧪 [A/B Testing Framework](https://github.com/DatabyFede/ab-testing-framework)
+Framework para diseñar, simular y analizar tests A/B con rigor estadístico. Cubre desde el cálculo del tamaño de muestra hasta el análisis de resultados con p-values, intervalos de confianza y visualización del peek problem.
+
+**[→ Demo en vivo](https://ab-testing-framework-694whjg3n9ihmrvfxsg7vc.streamlit.app/)**
+
+`Python` `Streamlit` `scipy` `Estadística` `Product Analytics`
+
+---
+
+### 📉 [Churn Predictor](https://github.com/DatabyFede/churn-predictor)
+Modelo de predicción de abandono de clientes con Gradient Boosting y explicaciones SHAP por cliente. Incluye una API REST con FastAPI para consumir el modelo desde cualquier sistema.
+
+**[→ Demo en vivo](https://churn-predictor-jjwsusqdchrdeewknqsnvg.streamlit.app/)**
+
+`Python` `Streamlit` `FastAPI` `scikit-learn` `SHAP` `MLOps`
+
+---
+
 ## 🛠️ Stack
 
 ```
 Lenguajes   →  Python · SQL
 Datos       →  Pandas · DuckDB · NumPy
-ML          →  scikit-learn · SHAP
+ML          →  scikit-learn · SHAP · Gradient Boosting
 Viz         →  Plotly · Matplotlib · Seaborn · Streamlit
+APIs        →  FastAPI · REST · World Bank API
 Infra       →  Git · GitHub · Streamlit Cloud
 ```
 
