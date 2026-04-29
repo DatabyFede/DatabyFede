@@ -51,6 +51,13 @@ Modelo de predicción de abandono de clientes con Gradient Boosting y explicacio
 
 ---
 
+### ✅ [QA Automation Toolkit](https://github.com/DatabyFede/qa-automation-toolkit)
+Suite de 106 tests automatizados con Pytest sobre los módulos críticos del portfolio: lógica estadística del A/B Testing, modelo de churn y queries del SQL Toolkit. Incluye configuración de cobertura y reporte HTML.
+
+`Python` `Pytest` `QA Automation` `TDD` `CI/CD`
+
+---
+
 ## 🛠️ Stack
 
 ```
@@ -59,6 +66,7 @@ Datos       →  Pandas · DuckDB · NumPy
 ML          →  scikit-learn · SHAP · Gradient Boosting
 Viz         →  Plotly · Matplotlib · Seaborn · Streamlit
 APIs        →  FastAPI · REST · World Bank API
+QA          →  Pytest · pytest-cov · pytest-html
 Infra       →  Git · GitHub · Streamlit Cloud
 ```
 
